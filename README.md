@@ -1,0 +1,1 @@
+if your embedding & chunking model is failing / returning diverse or poor results — especially for building Retrieval-Augmented Generation (RAG), better chunking strategies, and embeddings workflows
