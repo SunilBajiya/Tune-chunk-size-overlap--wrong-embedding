@@ -1,0 +1,3 @@
+Enterprise user account management involves multiple steps.
+Password reset requires admin privileges and audit logging.
+This process ensures compliance and security across systems.
